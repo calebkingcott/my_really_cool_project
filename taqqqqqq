@@ -1,0 +1,69 @@
+commit 72f43deaa85e4e51c008b539a90bf5df8bb0c69b
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Wed Mar 2 20:39:57 2016 +0000
+
+    New feature for file1
+
+commit 796d5e5587fca442512e0985b334a066aa386ecd
+Merge: bccc9d1 02f2551
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Sun Feb 28 12:43:22 2016 +0000
+
+    Merge branch 'foo_feature'
+    
+    Conflicts:
+    	file1
+
+commit 02f25519a8ec7f10297d17e59e18be765c06c11e
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Sun Feb 28 12:29:34 2016 +0000
+
+    more for foo_feature
+
+commit bccc9d114ab9a6ed01f3cf5af5a24c1cbb794e06
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Sun Feb 28 12:28:17 2016 +0000
+
+    Use totally
+
+commit 712a8f10fbf32256f4fd2cf21c3474654f74889a
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Sun Feb 28 12:04:02 2016 +0000
+
+    Getting started on the foo feature
+
+commit ce30eae7b89e4edceb841076f438d6a87ff11499
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Sun Feb 28 11:19:00 2016 +0000
+
+    change
+
+commit 1555ac69c12d786c6a67acffd0c945dee3cb13a2
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Sun Feb 28 11:17:00 2016 +0000
+
+    all
+
+commit 8dae3dfd638c484c5ed143a0248d7cef0bf5e75a
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Sun Feb 28 11:14:02 2016 +0000
+
+    file 1 update
+
+commit 9cbf4282e3f50f80be1eaa980a0af785f92011e2
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Sun Feb 28 11:12:05 2016 +0000
+
+    test
+
+commit 305dfdbc89813bfa89578ea850151c3e41cc861b
+Author: Caleb Kingcott <calebkingcott@googlemail.com>
+Date:   Sun Feb 28 11:03:45 2016 +0000
+
+    Added mission to readme
+
+commit c43a21f716ba00a4359aeb376638d9b80369ea24
+Author: Treehouse User <treehouse@ip-10-235-10-17.ec2.internal>
+Date:   Sun Feb 28 10:59:17 2016 +0000
+
+    Added a Readme file.
